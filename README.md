@@ -35,22 +35,23 @@ process, because most of us have wide aspect ratio monitors nowadays.
 -----------------
  FEATURES V1.0
 -----------------
-New background panel wide bitmaps (day and night).
-New VC Camera views including Autopilot (centered) and Jumpseat. See Installation.txt file.
-New VSpeed popup gauge using Aircraft weight, Flaps position and Barometric pressure.
-New Ground Handling popup gauge with Fuel truck call, Doors control and Pushback.
-New fully working Auto-brake switch, based on POSKY Auto-brake gauge.
-New fully working Auto-taxi switch, to maintain 15 knots taxiing speed.
-New Brake pressure gauge for the wide 2D panel.
-New extended Cockpit Sounds gauge.
+- New background panel wide bitmaps (day and night).
+- New VC Camera views including Autopilot (centered) and Jumpseat. See Installation.txt file.
+- New VSpeed popup gauge using Aircraft weight, Flaps position and Barometric pressure.
+- New Ground Handling popup gauge with Fuel truck call, Doors control and Pushback.
+- New fully working Auto-brake switch, based on POSKY Auto-brake gauge.
+- New fully working Auto-taxi switch, to maintain 15 knots taxiing speed.
+- New Brake pressure gauge for the wide 2D panel.
+- New extended Cockpit Sounds gauge.
+- New Auto-smoke gauge (optional).
 
-Fixed Warning/Caution buttons to display properly.
-Fixed Flap Transit and Auto Brake lights. Now working correctly.
-Fixed EICAS 2 screen, added missing fuel used and made available in 2D panel.
+- Fixed Warning/Caution buttons to display properly.
+- Fixed Flap Transit and Auto Brake lights. Now working correctly.
+- Fixed EICAS 2 screen, added missing fuel used and made available in 2D panel.
 
-Updated MFD to support Terrain and Traffic (TCAS).
-Updated Head-up Guidance System (HGS) popup to support wide screen.
-Updated Altitude Callout gauge with Airbus A330 correct parameters.
+- Updated MFD to support Terrain and Traffic (TCAS).
+- Updated Head-up Guidance System (HGS) popup to support wide screen.
+- Updated Altitude Callout gauge with Airbus A330 correct parameters.
 
 
 -----------------
