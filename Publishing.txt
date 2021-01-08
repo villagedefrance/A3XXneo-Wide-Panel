@@ -1,0 +1,19 @@
+===========================
+
+    Airbus A321 neo/330 neo/A350
+
+    Virtual cockpit and 2D panels
+
+	Version 1.0 - 07/01/2021
+
+	Philippe Marion © 2021
+
+===========================
+
+FSX/P3D Airbus A3XX wide 2D panel and VC V1. This is a twin panel package, based on the default FSX A321 panel, containing an updated default panel (1024px) and a new wide panel version (1280px) for widescreen monitors.
+Features include: new and improved day and night 2D panel background bitmaps, new and improved gauges, new popup windows, many fixes and cockpit sounds. The VC is the better Tom Ruth A333NG VC model. 
+This VC model includes working wipers (right mouse click on switch) with rain effect and animated sun shades. Switches for LCD Screens, EICAS, PFD, MFD and integrated FMC.
+More realistic day and night VC textures including 5 VC camera views, adding Autopilot (centered) and jumpseat, to First officer, Center console and Overhead. 
+Fully working Auto-brake, Fully working Auto-taxi, fixed Warning/Caution annunciator panel, fixed Flaps Transit. Credits to Hiroshi Higami for the original Auto-brake gauge and Daniel Gauthier for the original Cockpit Sounds.
+The new panels are using the following extra gauges: FMC by Garrett Smith, and VSpeed, Altitude Callout, Icons32, Brake sound and new Cockpit sounds by me. Most of these gauges are using the FSX XML Sound gauge by Doug Dawson.
+Tested in FSX Acceleration (DX10) and FSX Steam Edition (DX9), on the default A321 and the SAAD A330-900 neo. Not tested in P3D but should work correctly up to V3. Sound effects may not work in V4 and V5.
