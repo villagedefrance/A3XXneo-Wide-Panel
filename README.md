@@ -28,7 +28,7 @@ I was working on an Airbus A330-900 neo project and wanted to use the default VC
 While looking into the panel files, I quickly realised that some updates were needed.
 I searched online for better panels but none of them were up to the job, so I then 
 decided to rework the FSX Default A321 panel, with the better TomA333NG_interior VC.
-I also went on to make a wider 1280 pixels version of the default panel in the
+I also went on to making a wider 1280 pixels version of the default panel in the
 process, because most of us have wide aspect ratio monitors nowadays.
 
 
